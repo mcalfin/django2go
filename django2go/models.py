@@ -39,7 +39,7 @@ null_map = {
     "int64":"null.Int",
     "bool":"null.Bool",
     "float64":"null.Float",
-    "float":"null.Float"
+    "float":"null.Float",
 }
 
 serializer_field_mapping = {
