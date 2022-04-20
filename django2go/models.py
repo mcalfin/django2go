@@ -38,7 +38,7 @@ null_map = {
     "int":"null.Int",
     "int64":"null.Int",
     "bool":"null.Bool",
-    "float64":"null.Float"
+    "float64":"null.Float",
     "float":"null.Float"
 }
 
